@@ -1,4 +1,12 @@
  # 給她的程式
+ ## 可調檔案 
+ *更新必須調整!*
+ [嗨](https://brawlstar-theta.vercel.app/)
+ + ## [想說的.txt](https://brawlstar-theta.vercel.app/formyfriend/想說的.txt) ##
+> - 就字面意思
+
+ 
+ ## 程式檔案
 + ## main.py ##
 > - 擴充資料process1 process2 的安裝器
 > - version.txt 比較器
@@ -19,3 +27,5 @@
 > - last_seen
 > - 章節
 > - 第一次看選單
++ ## process2 ##
+> - 與我對話.通道
