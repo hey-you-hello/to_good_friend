@@ -1,9 +1,19 @@
  # 給她的程式
  ## 可調檔案 
  *更新必須調整!*
- [嗨](https://brawlstar-theta.vercel.app/)
- + ## [想說的.txt](https://brawlstar-theta.vercel.app/formyfriend/想說的.txt) ##
+ 
+ + ## [想說的.txt](https://github.com/hey-you-hello/Brawlstar/blob/main/formyfriend/%E6%83%B3%E8%AA%AA%E7%9A%84.txt) ##
 > - 就字面意思
+ + ## [main_exe_version.txt](https://github.com/hey-you-hello/Brawlstar/blob/main/formyfriend/main_exe_version.txt) ##
+> - 擴充下載器更新檔案
+ + ## [分節](https://github.com/hey-you-hello/Brawlstar/blob/main/formyfriend/%E5%88%86%E7%AF%80) ##
+> - 將我想說的分的段落取名，以{ - }為分隔
+ + ## [擴充資料](https://github.com/hey-you-hello/Brawlstar/blob/main/formyfriend/%E6%93%B4%E5%85%85%E8%B3%87%E6%96%99) ##
+> - 將擴充資料列出，以空白分割，三個資訊分別為:
+>> 1. 位置
+>> 2. URL
+>> 3. 版本
+ 
 
  
  ## 程式檔案
