@@ -15,7 +15,7 @@
 >> 3. 版本
  
 ## 擴充資料儲存位置
-[這裡](https://supabase.com/dashboard/project/yopdhmwgucwadgnrbrta/storage/buckets/1gb)
+> - [這裡](https://supabase.com/dashboard/project/yopdhmwgucwadgnrbrta/storage/buckets/1gb)
  
  ## 程式檔案
 + ## main.py ##
